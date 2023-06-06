@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:my_statuses/screens/splash_screen.dart';
 
 void main() async {
-  // swhizztrain get some changes
+  // swhizztraining get some changes 
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
   FirebaseMessaging firebaseMessaging = FirebaseMessaging();
